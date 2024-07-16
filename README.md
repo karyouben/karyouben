@@ -24,8 +24,8 @@
 
 ## **🔍 I'm currently open to:**
 <ul>
-  💼Internship opportunities<br>
-  🗣️Full-time job opportunities
+ 🗣️ Internship opportunities<br>
+ 💼 Full-time job opportunities
 </ul>
 <p>Feel free to check out <a href="https://read.cv" target="_blank">my resume</a>!</p>
 
@@ -137,5 +137,10 @@
 </ul>
 
 </div>
+<img align="center" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="45%" />
+
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
+
+
+
     
