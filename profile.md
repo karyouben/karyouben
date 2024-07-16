@@ -9,7 +9,7 @@
 <br>
 
 ## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
-
+  <img align="right" width=200px height=200px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
   🎓 I’m studying Software Engineering at <a href="https://www.us.es" target="_blank">US</a><br>
   💻 Passionate about Full-Stack Development, with a focus on Back-end<br>
   🛠️ Experienced with JavaScript, React, Python, and Java<br>
@@ -24,8 +24,8 @@
 
 ## **🔍 I'm currently open to:**
 <ul>
-  <li>Internship opportunities</li>
-  <li>Full-time job opportunities</li>
+  💼Internship opportunities<br>
+  🗣️Full-time job opportunities
 </ul>
 <p>Feel free to check out <a href="https://read.cv" target="_blank">my resume</a>!</p>
 
@@ -44,7 +44,6 @@
     <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C">
     <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++">
     <img src="https://img.shields.io/badge/Scala-DC322F?style=for-the-badge&logo=scala&logoColor=white" alt="Scala">
-    <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React">
 </p>
 <br>
 
@@ -80,6 +79,7 @@
   <img src="https://img.shields.io/badge/numpy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="Numpy">
   <img src="https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas">
   <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-learn">
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React">
 </p>
 <br>
 
@@ -107,8 +107,6 @@
   <img src="https://img.shields.io/badge/Matlab-0076A8?style=for-the-badge&logo=mathworks&logoColor=white" alt="Matlab">
   <img src="https://img.shields.io/badge/SageMath-41454A?style=for-the-badge&logoColor=white" alt="SageMath">
   <img src="https://img.shields.io/badge/SonarQube-4E9BCD?style=for-the-badge&logo=sonarqube&logoColor=white" alt="SonarQube">
-  <img src="https://img.shields.io/badge/Google-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Google">
-  <img src="https://img.shields.io/badge/Terminal-000000?style=for-the-badge&logo=windowsterminal&logoColor=white" alt="Terminal">
   <img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white" alt="Markdown">
 </p>
 <br>
@@ -140,5 +138,4 @@
 
 </div>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
-
-
+    
