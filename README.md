@@ -25,7 +25,7 @@
 ## **🔍 I'm currently open to:**
 <ul>
  🗣️ Internship opportunities<br>
- 💼 Full-time job opportunities
+ 💼 Part-time job opportunities
 </ul>
 <p>Feel free to check out <a href="https://read.cv" target="_blank">my resume</a>!</p>
 
