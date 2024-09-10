@@ -8,7 +8,7 @@
 
 <br>
 
-## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
+## <picture><img src = "https://media1.tenor.com/m/EzEcg26gZwIAAAAC/hi.gif" width = 50px></picture> **About me**
   <img align="right" width=200px height=200px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
   🎓 I’m studying Software Engineering at <a href="https://www.us.es" target="_blank">US</a><br>
   💻 Passionate about Full-Stack Development, with a focus on Back-end<br>
